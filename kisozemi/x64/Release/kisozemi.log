@@ -1,0 +1,63 @@
+﻿  convertColorSpace.cpp
+F:\openCV\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+E:\j授業ノート\k基礎ゼミ\第1回\convertColorSpace.cpp(19): error C2065: 'cout': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\convertColorSpace.cpp(19): error C2065: 'endl': 定義されていない識別子です。
+  extractROI.cpp
+F:\openCV\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  negaPosi.cpp
+F:\openCV\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  readCamera.cpp
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(2): error C2143: 構文エラー: ';' が '<' の前にありません。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(2): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2361): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2361): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(18): error C2653: 'cv': 識別子がクラス名でも名前空間名でもありません。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(18): error C2065: 'VideoCapture': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(18): error C2146: 構文エラー: ';' が、識別子 'cap' の前に必要です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(18): error C3861: 'cap': 識別子が見つかりませんでした
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(20): error C2065: 'cap': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(20): error C2228: '.isOpened' の左側はクラス、構造体、共用体でなければなりません
+  E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(20): note: 型は 'unknown-type' です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(28): error C2653: 'cv': 識別子がクラス名でも名前空間名でもありません。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(28): error C2065: 'Mat': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(28): error C2146: 構文エラー: ';' が、識別子 'frame' の前に必要です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(28): error C2065: 'frame': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(29): error C2065: 'cap': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(29): error C2065: 'frame': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(31): error C2065: 'frame': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(31): error C2228: '.empty' の左側はクラス、構造体、共用体でなければなりません
+  E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(31): note: 型は 'unknown-type' です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(37): error C2653: 'cv': 識別子がクラス名でも名前空間名でもありません。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(37): error C2065: 'frame': 定義されていない識別子です。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(37): error C3861: 'imshow': 識別子が見つかりませんでした
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(39): error C2653: 'cv': 識別子がクラス名でも名前空間名でもありません。
+E:\j授業ノート\k基礎ゼミ\第1回\readCamera.cpp(39): error C3861: 'waitKey': 識別子が見つかりませんでした
+  readImage.cpp
+F:\openCV\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  readVideo.cpp
+F:\openCV\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  splitAndMergeColorImage.cpp
+F:\openCV\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  splitColorImage.cpp
+F:\openCV\include\opencv2/core/persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/core/utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+F:\openCV\include\opencv2/imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。

@@ -1,0 +1,33 @@
+﻿  kadaiTest.cpp
+f:\opencv\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+f:\opencv\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+f:\opencv\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+f:\opencv\include\opencv2\imgproc.hpp(606): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(207): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(208): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(209): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(210): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(233): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(234): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(235): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(236): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(240): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(257): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(258): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(259): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(260): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(292): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(293): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(294): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(295): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(314): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(340): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(359): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(360): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(361): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(362): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(368): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(369): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\user\desktop\kisozemi\kadaitest.cpp(370): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  kisozemi.vcxproj -> C:\Users\user\Desktop\kisozemi\x64\Debug\kisozemi.exe
+  kisozemi.vcxproj -> C:\Users\user\Desktop\kisozemi\x64\Debug\kisozemi.pdb (Full PDB)
